@@ -1,0 +1,17 @@
+.cards{
+    margin-top: 3%;
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto;
+
+}
+.card{
+    background-color: aquamarine;
+    
+    
+}
+.red{ 
+    background-color: red;
+}
+.blue{
+    color: aqua;
+}
